@@ -19,16 +19,27 @@ Este proyecto implementa un sistema de gestión de torneos de eSports utilizando
 
 ## Estructura del Proyecto 
 torneo-esports-uml/ ├── src/ 
+
 │ ├── es/empresa/torneo/ 
+
 │ │ ├── modelo/ 
+
 │ │ ├── control/ 
+
 │ │ ├── vista/ 
+
 │ │ ├── Main.java 
+
 ├── diagrams/ 
+
 │ ├── casos-uso.png 
+
 │ ├── clases.png 
+
 ├── README.md 
+
 ├── .gitignore
+
 
 
 ## Instalación y Ejecución 
