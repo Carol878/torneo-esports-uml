@@ -7,6 +7,7 @@ Carol878
 ## Descripción del Proyecto 
 
 Link al repositorio del proyecto: https://github.com/Carol878/torneo-esports-uml.git
+
 Este proyecto implementa un sistema de gestión de torneos de eSports utilizando UML para el modelado y Java para la implementación.
 
 ## Diagramas UML 
