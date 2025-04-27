@@ -15,12 +15,15 @@ Este proyecto implementa un sistema de gestión de torneos de eSports utilizando
 ### Diagrama de Casos de Uso 
 ![Diagrama de Casos de Uso](diagrams/AñadirJugadoresaunEquipo.png)
 
+
 ![Diagrama de Casos de Uso](diagrams/Consultarlistadeequiposyjugadores.png)
+
 
 ![Diagrama de Casos de Uso](diagrams/Registrarequipos.png)
 
+
 ### Diagrama de Clases 
-![Diagrama de clases](diagrams/clases.png) 
+![Diagrama de clases](diagrams/Diagramadeclases.png) 
 
 ## Estructura del Proyecto 
 torneo-esports-uml/ ├── src/ 
