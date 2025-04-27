@@ -13,11 +13,11 @@ Este proyecto implementa un sistema de gestión de torneos de eSports utilizando
 
 ## Diagramas UML 
 ### Diagrama de Casos de Uso 
-![Diagrama de Casos de Uso](diagrams/Añadir Jugadores a un Equipo.png)
+![Diagrama de Casos de Uso](diagrams/AñadirJugadoresaunEquipo.png)
 
-![Diagrama de Casos de Uso](diagrams/Consultar lista de equipos y jugadores.png)
+![Diagrama de Casos de Uso](diagrams/Consultarlistadeequiposyjugadores.png)
 
-![Diagrama de Casos de Uso](diagrams/Registrar equipos.png)
+![Diagrama de Casos de Uso](diagrams/Registrarequipos.png)
 
 ### Diagrama de Clases 
 ![Diagrama de clases](diagrams/clases.png) 
