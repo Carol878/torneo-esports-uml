@@ -13,9 +13,9 @@ Este proyecto implementa un sistema de gestión de torneos de eSports utilizando
 
 ## Diagramas UML 
 ### Diagrama de Casos de Uso 
-![Diagrama de casos de uso](C:\Users\Carol\OneDrive\Escritorio\UNIR\ENTORNOS\torneo-Esports-uml\diagrams\Registrar equipos.drawio.png)
-![Diagrama de casos de uso](C:\Users\Carol\OneDrive\Escritorio\UNIR\ENTORNOS\torneo-Esports-uml\diagrams\Consultar lista de equipos y jugadores.drawio.png)
-![Diagrama de casos de uso](C:\Users\Carol\OneDrive\Escritorio\UNIR\ENTORNOS\torneo-Esports-uml\diagrams\Añadir Jugadores a un Equipo.drawio.png)
+![Diagrama de Casos de Uso](diagrams/Añadir Jugadores a un Equipo.drawio.png)
+![Diagrama de Casos de Uso](diagrams/Consultar lista de equipos y jugadores.drawio.png)
+![Diagrama de Casos de Uso](diagrams/Registrar equipos.drawio.png)
 
 ### Diagrama de Clases 
 ![Diagrama de clases](diagrams/clases.png) 
